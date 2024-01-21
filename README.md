@@ -1,8 +1,20 @@
-# React + Vite
+# BookList App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src= https://i.ibb.co/KGbz9RD/Book-List-App.png />
 
-Currently, two official plugins are available:
+## Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+## Getting Started
+
+**Clone the repository:**
+
+```bash
+git clone https://github.com/Developer-Jihad/Book-List
+cd booking
+npm install
+npm run dev
+```
